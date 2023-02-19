@@ -1,4 +1,31 @@
 {
+  "skills": {
+    "tools": {
+      "title": {
+        "key": "Langages et outils de programmation"
+      }
+    },
+    "personnal": {
+      "title": {
+        "key": "Qualités personnelles"
+      },
+      "key1": "Rigueur",
+      "key2": "Sens de responsabilité",
+      "key3": "Goût du challenge et resolution des problemes",
+      "key4": "Curiosité",
+      "key5": "Adaptabilité",
+      "key6": "Créativité",
+      "key7": "Esprit d'équipe"
+    }
+  },
+  "personnal": {
+    "address": {
+      "key": "appt 70 rue 13 , Quartier EL Baraka , Ben M'sik Sidi Othmane"
+    },
+    "presentation": {
+      "key": "Je suis un Développeur professionel avec presque 2 ans d'experience basé au Maroc, je me concentre toujours sur le fait d'être plus expert dans ce domaine et d'être utile à la communauté. Et je conçois et construis des sites Web et des applications Web personnalisés, du concept à la réalisation.\nJe suis un développeur Web full stack de niveau junior, travaillant avec un stack flexible de technologies front-end et back-end et une compréhension approfondie des bons pratiques en matière d'architecture d'applications Web"
+    }
+  },
   "general": {
     "about": {
       "key": "À propos"
@@ -22,33 +49,6 @@
       "english": {
         "key": "Anglais"
       }
-    }
-  },
-  "personnal": {
-    "address": {
-      "key": "appt 70 rue 13 , Quartier EL Baraka , Ben M'sik Sidi Othmane"
-    },
-    "presentation": {
-      "key": "Je suis un Développeur professionel avec presque 2 ans d'experience basé au Maroc, je me concentre toujours sur le fait d'être plus expert dans ce domaine et d'être utile à la communauté. Et je conçois et construis des sites Web et des applications Web personnalisés, du concept à la réalisation.\nJe suis un développeur Web full stack de niveau junior, travaillant avec un stack flexible de technologies front-end et back-end et une compréhension approfondie des bons pratiques en matière d'architecture d'applications Web"
-    }
-  },
-  "skills": {
-    "tools": {
-      "title": {
-        "key": "Langages et outils de programmation"
-      }
-    },
-    "personnal": {
-      "title": {
-        "key": "Qualités personnelles"
-      },
-      "key1": "Rigueur",
-      "key2": "Sens de responsabilité",
-      "key3": "Goût du challenge et resolution des problemes",
-      "key4": "Curiosité",
-      "key5": "Adaptabilité",
-      "key6": "Créativité",
-      "key7": "Esprit d'équipe"
     }
   },
   "experience": {
