@@ -1,0 +1,109 @@
+{
+  "general": {
+    "about": {
+      "key": "About"
+    },
+    "experiences": {
+      "key": "Experiences"
+    },
+    "education": {
+      "key": "Education"
+    },
+    "skills": {
+      "key": "Skills"
+    },
+    "interests": {
+      "key": "Interests"
+    },
+    "language": {
+      "french": {
+        "key": "French"
+      },
+      "english": {
+        "key": "English"
+      }
+    }
+  },
+  "personnal": {
+    "address": {
+      "key": "Appt 70 Street 12 , El Baraka neighborhood , Ben M'sik Sidi othmane"
+    },
+    "presentation": {
+      "key": "I am a professional Developer with almost 2 years of experience based in Morocco, I always focus on being more expert in this field and being useful to the community. And I design and build custom websites and web applications from concept to completion.\nI am a junior level full stack web developer, working with a flexible stack of front-end and back-end technologies and a deep understanding of web application architecture best practices."
+    }
+  },
+  "skills": {
+    "tools": {
+      "title": {
+        "key": "Programming languages & tools"
+      }
+    },
+    "personnal": {
+      "title": {
+        "key": "Personal qualities"
+      },
+      "key1": "Rigor",
+      "key2": "Sense of responsibility",
+      "key3": "Challenging & problem solving",
+      "key4": "Curiosity",
+      "key5": "Adaptability",
+      "key6": "Creativity",
+      "key7": "Teamwork"
+    }
+  },
+  "experience": {
+    "role": {
+      "key1": "Junior FullStack Developper",
+      "key2": "FullStack Developper (Internship)",
+      "key3": "FullStack Developper (Traineeship)",
+      "key4": "FullStack Developper (Traineeship)",
+      "key5": "FullStack Developper (Internship End of training)"
+    },
+    "description": {
+      "key1": "Development of an information system for hospitals Vision-HIS.\nParticipation in the project architecture and database schema.\nParticipate in the separation of microservices.\nAnimating daily meetings.\nTrain new employees.\nParticipate in the development of project dependency tools.\nResponsable implementing functionalities in advanced table & form Validation in Angular.\nValidation of pull requests.\nEnsure code quality.",
+      "key2": "Planning, analysis and creation of a management application and configuration of applications on demand. \nCreation and management of several Wordpress applications.",
+      "key3": "Planning, analysis and creation of an e-commerce web application for electronic materials.",
+      "key4": "Planning, analysis and creation of an e-commerce web application for musical materials.",
+      "key5": "Planning, analysis and creation of a purchase traceability web application"
+    },
+    "date": {
+      "key1": "July 2021-Present",
+      "key2": "January 2021 - Juin 2021",
+      "key3": "August 2020 - September 2020",
+      "key4": "July 2020 - July 2020",
+      "key5": "March 2019 - April 2019"
+    }
+  },
+  "education": {
+    "school": {
+      "key1": "Cigma FST-Setat",
+      "key2": "Office de la Formation Professionnelle et de la Promotion du Travail (OFPPT)",
+      "key3": "Office de la Formation Professionnelle et de la Promotion du Travail (OFPPT)",
+      "key4": "Moulay Driss High School"
+    },
+    "degree": {
+      "key1": "Professional Bachelor in Java/J2EE.",
+      "key2": "Qualifying training of a Java/J2EE designer and developer",
+      "key3": "Diploma in IT Development",
+      "key4": "high school degree of Physics Science"
+    },
+    "domain": {
+      "key1": "Web Development",
+      "key2": "Web Development",
+      "key3": "IT Development",
+      "key4": "Essential Studies"
+    },
+    "mention": {
+      "key1": "A+",
+      "key2": "A",
+      "key3": "B",
+      "key4": "C+"
+    },
+    "date": {
+      "key1": "November 2020 - June 2021",
+      "key2": "December 2019 - December 2021",
+      "key3": "September 2017 - June 2019",
+      "key4": "September 2017 - June 2019"
+    }
+  }
+}

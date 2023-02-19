@@ -1,0 +1,109 @@
+{
+  "general": {
+    "about": {
+      "key": "À propos"
+    },
+    "experiences": {
+      "key": "Expériences"
+    },
+    "education": {
+      "key": "Éducation"
+    },
+    "skills": {
+      "key": "Compétences"
+    },
+    "interests": {
+      "key": "Intérêts"
+    },
+    "language": {
+      "french": {
+        "key": "Français"
+      },
+      "english": {
+        "key": "Anglais"
+      }
+    }
+  },
+  "personnal": {
+    "address": {
+      "key": "appt 70 rue 13 , Quartier EL Baraka , Ben M'sik Sidi Othmane"
+    },
+    "presentation": {
+      "key": "Je suis un Développeur professionel avec presque 2 ans d'experience basé au Maroc, je me concentre toujours sur le fait d'être plus expert dans ce domaine et d'être utile à la communauté. Et je conçois et construis des sites Web et des applications Web personnalisés, du concept à la réalisation.\nJe suis un développeur Web full stack de niveau junior, travaillant avec un stack flexible de technologies front-end et back-end et une compréhension approfondie des bons pratiques en matière d'architecture d'applications Web"
+    }
+  },
+  "skills": {
+    "tools": {
+      "title": {
+        "key": "Langages et outils de programmation"
+      }
+    },
+    "personnal": {
+      "title": {
+        "key": "Qualités personnelles"
+      },
+      "key1": "Rigueur",
+      "key2": "Sens de responsabilité",
+      "key3": "Goût du challenge et resolution des problemes",
+      "key4": "Curiosité",
+      "key5": "Adaptabilité",
+      "key6": "Créativité",
+      "key7": "Esprit d'équipe"
+    }
+  },
+  "experience": {
+    "role": {
+      "key1": "Développeur FullStack junior",
+      "key2": "Developpeur FullStack (Stage pré-embauche)",
+      "key3": "Developpeur FullStack (Stage)",
+      "key4": "Developpeur FullStack (Stage)",
+      "key5": "Developpeur FullStack (Stage Fin formation)"
+    },
+    "description": {
+      "key1": "Développement d'un système d'information pour les hôpitaux Vision-HIS.\nParticipation à l'architecture du projet et au schéma de la base de données.\nParticiper à la séparation des microservices.\nAnimation des réunions quotidiennes.\nFormer les nouveaux employés.\nParticiper au développement d'outils de dépendance de projet.\nResponsable de la mise en œuvre des fonctionnalités avancées de validation de tableaux et de formulaires dans Angular.\nValidation des pull requests.\nAssurer la qualité du code.",
+      "key2": "Planification, analyse et création d'une application de gestion et configuration d'applications à la demande. \nCréation et gestion de plusieurs applications Wordpress.",
+      "key3": "Planification, analyse et création d'une application web e-commerce pour les materiels électroniques.",
+      "key4": "Planification, analyse et création d'une application web e-commerce pour les materiels musicals.",
+      "key5": "Planification, analyse et création d'une application web de traçabilité des achats"
+    },
+    "date": {
+      "key1": "Juillet 2021 - Présent",
+      "key2": "Janvier 2021 - Juin 2021",
+      "key3": "Aout 2020 - Septembre 2020",
+      "key4": "Juillet 2020 - Juillet 2020 ",
+      "key5": "Mars 2019 - Avril 2019"
+    }
+  },
+  "education": {
+    "school": {
+      "key1": "Cigma FST-Setat",
+      "key2": "Office de la Formation Professionnelle et de la Promotion du Travail (OFPPT)",
+      "key3": "Office de la Formation Professionnelle et de la Promotion du Travail (OFPPT)",
+      "key4": "Lycée Moulay Driss"
+    },
+    "degree": {
+      "key1": "License professionnelle en Java/J2EE.",
+      "key2": "Formation Qualifiante d'un concépteur et Réalisateur Java/J2EE",
+      "key3": "Diplôme en Développement informatique",
+      "key4": "Baccalauréat en Science Physique"
+    },
+    "domain": {
+      "key1": "Développement Web",
+      "key2": "Développement Web",
+      "key3": "Développement informatique",
+      "key4": "Études essentielles"
+    },
+    "mention": {
+      "key1": "Trés bien",
+      "key2": "Bien",
+      "key3": "Assez-bien",
+      "key4": "Passable"
+    },
+    "date": {
+      "key1": "Novembre 2020 - Juin 2021",
+      "key2": "Décembre 2019 - Décembre 2021",
+      "key3": "Séptembre 2017 - Juin 2019",
+      "key4": "Séptembre 2016 - Juin 2017"
+    }
+  }
+}
