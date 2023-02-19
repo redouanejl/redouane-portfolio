@@ -1,0 +1,14 @@
+<section class="resume-section" id="education">
+  <div class="resume-section-content">
+    <h2 class="mb-5">{{'general.education.key' | translate}}</h2>
+    <div *ngFor="let education of educations;let educationIndex = index" class="d-flex flex-column flex-md-row justify-content-between mb-5">
+      <div class="flex-grow-1">
+        <h3 class="mb-0">{{education.schoolName + (educationIndex + 1)  | translate}}</h3>
+        <div class="subheading mb-3">{{education.degree + (educationIndex + 1) | translate}}</div>
+        <div>{{education.domain + (educationIndex + 1) | translate}}</div>
+        <p>{{education.mention + (educationIndex + 1) | translate}}</p>
+      </div>
+      <div class="flex-shrink-0"><span class="text-primary">{{education.date + (educationIndex + 1) | translate}}</span></div>
+    </div>
+  </div>
+</section>

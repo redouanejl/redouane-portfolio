@@ -1,0 +1,13 @@
+#skills {
+  background: #f7e9e4;
+}
+
+.skill-item{
+  margin: 0 10px;
+  text-align: center;
+}
+
+.skill-img{
+  width: 48px;
+  height: 48px;
+}

@@ -1,0 +1,36 @@
+<div id="main-app">
+  <!--side-bar -->
+  <app-side-bar [personName]="person.firstName +' '+ person.lastName"></app-side-bar>
+  <!-- Page Content-->
+  <div class="container-fluid p-0">
+    <!-- About-->
+    <app-presentation-section [person]="person"></app-presentation-section>
+    <hr class="m-0" />
+    <!-- Experience-->
+    <app-experience-section [experiences]="person.experiences"></app-experience-section>
+    <hr class="m-0" />
+    <!-- Education-->
+    <app-education-section [educations]="person.educations"></app-education-section>
+    <hr class="m-0" />
+    <!-- Skills-->
+    <app-skills-section></app-skills-section>
+    <hr class="m-0" />
+    <!-- Interests-->
+    <div class="languages-selection">
+      <p-dropdown [options]="languages" [(ngModel)]="selectedLanguage" optionLabel="name" (onChange)="onChangeLanguage($event)">
+        <ng-template pTemplate="selectedItem">
+          <div class="country-item country-item-value"  *ngIf="selectedLanguage">
+            <img [src]="'assets/img/flags/'+selectedLanguage.flag" class="flag-png"/>
+            <span>{{selectedLanguage.name | translate }}</span>
+          </div>
+        </ng-template>
+        <ng-template let-language pTemplate="item">
+          <div class="language-item">
+            <img [src]="'assets/img/flags/'+language.flag" class="flag-png"/>
+            <span>{{language.name | translate }}</span>
+          </div>
+        </ng-template>
+      </p-dropdown>
+    </div>
+  </div>
+</div>
