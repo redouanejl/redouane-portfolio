@@ -105,5 +105,8 @@
       }
     }
   },
-  "defaultProject": "redouane-portfolio"
+  "defaultProject": "redouane-portfolio",
+  "cli": {
+    "analytics": "07dce090-4435-4dd5-81b3-27419c4f31d8"
+  }
 }
