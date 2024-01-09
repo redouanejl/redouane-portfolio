@@ -53,57 +53,70 @@
   },
   "experience": {
     "role": {
-      "key1": "Junior FullStack Developper",
-      "key2": "FullStack Developper (Internship)",
-      "key3": "FullStack Developper (Traineeship)",
-      "key4": "FullStack Developper (Traineeship)",
-      "key5": "FullStack Developper (Internship End of training)"
+      "key1": "Consultant FullStack Spring-Angular",
+      "key2": "Junior FullStack Developer",
+      "key3": "FullStack Developer (Pre-hiring Internship)",
+      "key4": "FullStack Developer (Internship)",
+      "key5": "FullStack Developer (Internship)",
+      "key6": "FullStack Developer (End of Training Internship)"
     },
     "description": {
-      "key1": "Development of an information system for hospitals Vision-HIS.\nParticipation in the project architecture and database schema.\nParticipate in the separation of microservices.\nAnimating daily meetings.\nTrain new employees.\nParticipate in the development of project dependency tools.\nResponsable implementing functionalities in advanced table & form Validation in Angular.\nValidation of pull requests.\nEnsure code quality.",
-      "key2": "Planning, analysis and creation of a management application and configuration of applications on demand. \nCreation and management of several Wordpress applications.",
-      "key3": "Planning, analysis and creation of an e-commerce web application for electronic materials.",
-      "key4": "Planning, analysis and creation of an e-commerce web application for musical materials.",
-      "key5": "Planning, analysis and creation of a purchase traceability web application"
+      "key1": "Developed an E-learning platform for information security awareness.",
+      "key2": "Developed an information system for Vision-HIS hospitals.\nParticipated in project architecture and database schema.\nContributed to microservices separation.\nConducted daily meetings.\nTrained new employees.\nContributed to the development of project dependency tools.\nResponsible for implementing advanced features of table and form validation in Angular.\nReviewed pull requests.\nEnsured code quality.",
+      "key3": "Planned, analyzed, and created an application for managing and configuring on-demand applications.\nCreated and managed multiple Wordpress applications.",
+      "key4": "Planned, analyzed, and created an e-commerce web application for electronic equipment.",
+      "key5": "Planned, analyzed, and created an e-commerce web application for musical equipment.",
+      "key6": "Planned, analyzed, and created a web application for purchase traceability."
     },
     "date": {
-      "key1": "July 2021-Present",
-      "key2": "January 2021 - Juin 2021",
-      "key3": "August 2020 - September 2020",
-      "key4": "July 2020 - July 2020",
-      "key5": "March 2019 - April 2019"
+      "key1": "September 2023 - Present",
+      "key2": "July 2021 - June 2023",
+      "key3": "January 2021 - June 2021",
+      "key4": "August 2020 - September 2020",
+      "key5": "July 2020 - July 2020",
+      "key6": "March 2019 - April 2019"
     }
   },
   "education": {
     "school": {
-      "key1": "Cigma FST-Setat",
-      "key2": "Office de la Formation Professionnelle et de la Promotion du Travail (OFPPT)",
-      "key3": "Office de la Formation Professionnelle et de la Promotion du Travail (OFPPT)",
-      "key4": "Moulay Driss High School"
+      "key1": "ESCO WESFORD",
+      "key2": "SUPEMIR",
+      "key3": "Cigma FST-Setat",
+      "key4": "Office de la Formation Professionnelle et de la Promotion du Travail (OFPPT)",
+      "key5": "Office de la Formation Professionnelle et de la Promotion du Travail (OFPPT)",
+      "key6": "Lycée Moulay Driss"
     },
     "degree": {
-      "key1": "Professional Bachelor in Java/J2EE.",
-      "key2": "Qualifying training of a Java/J2EE designer and developer",
-      "key3": "Diploma in IT Development",
-      "key4": "high school degree of Physics Science"
+      "key1": "Master's in Business Administration - MBA",
+      "key2": "Master's in Management of Information Systems - MSI",
+      "key3": "Bachelor's in Java/J2EE",
+      "key4": "Qualifying Training as a Java/J2EE Designer and Developer",
+      "key5": "Diploma in Software Development",
+      "key6": "High School Diploma in Physical Science"
     },
     "domain": {
-      "key1": "Web Development",
-      "key2": "Web Development",
-      "key3": "IT Development",
-      "key4": "Essential Studies"
+      "key1": "Business Administration - MBA",
+      "key2": "Management of Information Systems - MSI",
+      "key3": "Web Development",
+      "key4": "Web Development",
+      "key5": "Software Development",
+      "key6": "Essential Studies"
     },
     "mention": {
-      "key1": "A+",
-      "key2": "A",
-      "key3": "B",
-      "key4": "C+"
+      "key1": "--",
+      "key2": "--",
+      "key3": "Very Good",
+      "key4": "Good",
+      "key5": "Fairly Good",
+      "key6": "Pass"
     },
     "date": {
-      "key1": "November 2020 - June 2021",
-      "key2": "December 2019 - December 2021",
-      "key3": "September 2017 - June 2019",
-      "key4": "September 2017 - June 2019"
+      "key1": "December 2023 - September 2024",
+      "key2": "December 2023 - September 2024",
+      "key3": "November 2020 - June 2021",
+      "key4": "December 2019 - December 2021",
+      "key5": "September 2017 - June 2019",
+      "key6": "September 2016 - June 2017"
     }
   }
 }

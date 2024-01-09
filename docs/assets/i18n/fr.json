@@ -53,57 +53,70 @@
   },
   "experience": {
     "role": {
-      "key1": "Développeur FullStack junior",
-      "key2": "Developpeur FullStack (Stage pré-embauche)",
-      "key3": "Developpeur FullStack (Stage)",
+      "key1": "Consultant FullStack Spring-Angular",
+      "key2": "Développeur FullStack junior",
+      "key3": "Developpeur FullStack (Stage pré-embauche)",
       "key4": "Developpeur FullStack (Stage)",
-      "key5": "Developpeur FullStack (Stage Fin formation)"
+      "key5": "Developpeur FullStack (Stage)",
+      "key6": "Developpeur FullStack (Stage Fin formation)"
     },
     "description": {
-      "key1": "Développement d'un système d'information pour les hôpitaux Vision-HIS.\nParticipation à l'architecture du projet et au schéma de la base de données.\nParticiper à la séparation des microservices.\nAnimation des réunions quotidiennes.\nFormer les nouveaux employés.\nParticiper au développement d'outils de dépendance de projet.\nResponsable de la mise en œuvre des fonctionnalités avancées de validation de tableaux et de formulaires dans Angular.\nValidation des pull requests.\nAssurer la qualité du code.",
-      "key2": "Planification, analyse et création d'une application de gestion et configuration d'applications à la demande. \nCréation et gestion de plusieurs applications Wordpress.",
-      "key3": "Planification, analyse et création d'une application web e-commerce pour les materiels électroniques.",
-      "key4": "Planification, analyse et création d'une application web e-commerce pour les materiels musicals.",
-      "key5": "Planification, analyse et création d'une application web de traçabilité des achats"
+      "key1": "Réalisation d'une plateforme E-learning de sensibilisation en sécurité de l'information.",
+      "key2": "Développement d'un système d'information pour les hôpitaux Vision-HIS.\nParticipation à l'architecture du projet et au schéma de la base de données.\nParticiper à la séparation des microservices.\nAnimation des réunions quotidiennes.\nFormer les nouveaux employés.\nParticiper au développement d'outils de dépendance de projet.\nResponsable de la mise en œuvre des fonctionnalités avancées de validation de tableaux et de formulaires dans Angular.\nValidation des pull requests.\nAssurer la qualité du code.",
+      "key3": "Planification, analyse et création d'une application de gestion et configuration d'applications à la demande. \nCréation et gestion de plusieurs applications Wordpress.",
+      "key4": "Planification, analyse et création d'une application web e-commerce pour les materiels électroniques.",
+      "key5": "Planification, analyse et création d'une application web e-commerce pour les materiels musicals.",
+      "key6": "Planification, analyse et création d'une application web de traçabilité des achats"
     },
     "date": {
-      "key1": "Juillet 2021 - Présent",
-      "key2": "Janvier 2021 - Juin 2021",
-      "key3": "Aout 2020 - Septembre 2020",
-      "key4": "Juillet 2020 - Juillet 2020 ",
-      "key5": "Mars 2019 - Avril 2019"
+      "key1": "Septembre 2023 - Présent",
+      "key2": "Juillet 2021 - Juin 2023",
+      "key3": "Janvier 2021 - Juin 2021",
+      "key4": "Aout 2020 - Septembre 2020",
+      "key5": "Juillet 2020 - Juillet 2020 ",
+      "key6": "Mars 2019 - Avril 2019"
     }
   },
   "education": {
     "school": {
-      "key1": "Cigma FST-Setat",
-      "key2": "Office de la Formation Professionnelle et de la Promotion du Travail (OFPPT)",
-      "key3": "Office de la Formation Professionnelle et de la Promotion du Travail (OFPPT)",
-      "key4": "Lycée Moulay Driss"
+      "key1": "ESCO WESFORD",
+      "key2": "SUPEMIR",
+      "key3": "Cigma FST-Setat",
+      "key4": "Office de la Formation Professionnelle et de la Promotion du Travail (OFPPT)",
+      "key5": "Office de la Formation Professionnelle et de la Promotion du Travail (OFPPT)",
+      "key6": "Lycée Moulay Driss"
     },
     "degree": {
-      "key1": "License professionnelle en Java/J2EE.",
-      "key2": "Formation Qualifiante d'un concépteur et Réalisateur Java/J2EE",
-      "key3": "Diplôme en Développement informatique",
-      "key4": "Baccalauréat en Science Physique"
+      "key1": "Master professionnel en administration des entreprises - MBA",
+      "key2": "Master professionnel en management des systèmes d'information - MSI",
+      "key3": "License professionnelle en Java/J2EE.",
+      "key4": "Formation Qualifiante d'un concépteur et Réalisateur Java/J2EE",
+      "key5": "Diplôme en Développement informatique",
+      "key6": "Baccalauréat en Science Physique"
     },
     "domain": {
-      "key1": "Développement Web",
-      "key2": "Développement Web",
-      "key3": "Développement informatique",
-      "key4": "Études essentielles"
+      "key1": "Administration des entreprises - MBA",
+      "key2": "Management des systèmes d'information - MSI",
+      "key3": "Développement Web",
+      "key4": "Développement Web",
+      "key5": "Développement informatique",
+      "key6": "Études essentielles"
     },
     "mention": {
-      "key1": "Trés bien",
-      "key2": "Bien",
-      "key3": "Assez-bien",
-      "key4": "Passable"
+      "key1": "--",
+      "key2": "--",
+      "key3": "Trés bien",
+      "key4": "Bien",
+      "key5": "Assez-bien",
+      "key6": "Passable"
     },
     "date": {
-      "key1": "Novembre 2020 - Juin 2021",
-      "key2": "Décembre 2019 - Décembre 2021",
-      "key3": "Séptembre 2017 - Juin 2019",
-      "key4": "Séptembre 2016 - Juin 2017"
+      "key1": "Décembre 2023 - Septembre 2024",
+      "key2": "Décembre 2023 - Septembre 2024",
+      "key3": "Novembre 2020 - Juin 2021",
+      "key4": "Décembre 2019 - Décembre 2021",
+      "key5": "Séptembre 2017 - Juin 2019",
+      "key6": "Séptembre 2016 - Juin 2017"
     }
   }
 }
