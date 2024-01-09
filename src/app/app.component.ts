@@ -23,6 +23,12 @@ export class AppComponent implements OnInit{
     experiences: [
       {
         role: 'experience.role.key',
+        company: 'Caf-technologies',
+        description: 'experience.description.key',
+        date: 'experience.date.key'
+      },
+      {
+        role: 'experience.role.key',
         company: 'Binarios-IT',
         description: 'experience.description.key',
         date: 'experience.date.key'
@@ -53,6 +59,20 @@ export class AppComponent implements OnInit{
       },
     ],
     educations: [
+      {
+        schoolName: 'education.school.key',
+        degree: 'education.degree.key',
+        domain: 'education.domain.key',
+        mention: 'education.mention.key',
+        date: 'education.date.key'
+      },
+      {
+        schoolName: 'education.school.key',
+        degree: 'education.degree.key',
+        domain: 'education.domain.key',
+        mention: 'education.mention.key',
+        date: 'education.date.key'
+      },
       {
         schoolName: 'education.school.key',
         degree: 'education.degree.key',
